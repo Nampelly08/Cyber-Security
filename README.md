@@ -1,29 +1,54 @@
-# Cyber Security Internship
+# Cybersecurity Labs & Security Practice
 
-This repository contains the tasks, projects, and practical exercises completed during my Cyber Security Learning.
+## About
 
-## Internship Activities
+This repository contains my hands-on cybersecurity learning and security practice, covering Python, Linux, network security,
+packet analysis, and security tools.
 
-### project 1: Caesar Cipher
-Implemented a Python-based Caesar Cipher tool for encryption and decryption.
+## Areas Covered
 
-### project 2: Image Steganography
-Developed a Python application to hide and retrieve secret messages from images.
-
-### project 3: Wireshark Packet Analysis
-Captured and analyzed network packets using Wireshark.
-
-### project 4: SSH Configuration
-Configured and tested secure remote connections using SSH.
-
-## Skills Gained
-
-- Python Programming
-- Cryptography Basics
+- Python for Cybersecurity
+- Linux Security & Administration
 - Network Security
-- Packet Analysis
-- Linux Commands
-- Secure Communication
+- Network Traffic Analysis
+- Vulnerability Assessment
+- Secure Remote Access
+- Basic Cryptography
+
+## Tools & Technologies
+
+- Python
+- Linux
+- Nmap
+- Wireshark
+- SSH
+- Git & GitHub
+
+## Labs & Practice
+
+### 1. Caesar Cipher
+Python-based encryption and decryption practice.
+
+### 2. Image Steganography
+Practice hiding and extracting information from images.
+
+### 3. Nmap
+Network scanning and reconnaissance practice.
+
+### 4. Wireshark
+Network packet capture and traffic analysis.
+
+### 5. SSH
+Secure remote-access configuration and practice.
+
+### 6. Linux
+Linux commands and security-related practice.
+
+## Learning Focus
+
+Currently developing practical skills in cybersecurity,
+network security, vulnerability assessment, and security tools.
 
 ## Author
-Nampelly Ashritha
+
+Ashritha Nampelly
